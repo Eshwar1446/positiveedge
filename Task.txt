@@ -4,3 +4,5 @@ introduction
 software installation
 
 first scala session 
+
+second scala session took by Mr.Bhikshalu (GM)
