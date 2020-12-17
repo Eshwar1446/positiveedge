@@ -2,3 +2,5 @@ Here i am going to get task from positiveedge pvt ltd
 
 introduction
 software installation
+
+first scala session 
